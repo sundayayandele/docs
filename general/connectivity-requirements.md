@@ -6,14 +6,13 @@ The following article outlines what is required for connectivity to the go deplo
 
 The following browsers are supported:
 
-1. Microsoft Edge 18
 2. Microsoft Edge \(Chromium\) 77+
 3. Chrome v76+
 4. Safari v11+
 5. Opera v63+
 
 {% hint style="danger" %}
-**Please note:** Internet Explorer is NOT supported!
+**Please note:** Internet Explorer is _not_ supported. Mirosoft Edge Legacy reached _End of Life_ on March 9 2021. Please ensure you upgrade your Edge Legacy browser to Edge Chromium to avoid issues with labs.
 {% endhint %}
 
 ## **Ports**
