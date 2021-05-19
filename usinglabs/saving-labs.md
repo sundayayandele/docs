@@ -9,7 +9,7 @@ description: >-
 
 The save lab feature in the Learning Management System \(LMS\) allows users to save the state of their virtual machine in order to resume at a later date without losing any work or settings.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 ![](../.gitbook/assets/image%20%2883%29.png)
 

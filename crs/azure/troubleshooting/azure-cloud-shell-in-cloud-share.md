@@ -17,7 +17,7 @@ Select either Bash or PowerShell.
 Click **Show advanced settings**.  
 
 
-![](../../../.gitbook/assets/image%20%2851%29.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 Select the **East US** region.  Select **Use existing** Resource group and select the pre-provisioned resource group for the lab.
 

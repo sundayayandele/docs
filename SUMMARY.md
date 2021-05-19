@@ -45,6 +45,7 @@
 * [Performance Based Testing](pbt.md)
 * [Cloud Share](crs/README.md)
   * [Azure](crs/azure/README.md)
+    * [DP-203](crs/azure/dp-203.md)
     * [Authoring](crs/azure/authoring/README.md)
       * [ARM Template Best Practices](crs/azure/authoring/untitled.md)
       * [Configuring your Subscription](crs/azure/authoring/configuring-your-subscription.md)

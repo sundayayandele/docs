@@ -22,7 +22,7 @@ When using labs that require Azure and are leveraging our Cloud Sharing feature,
 
 ‌When completing labs, you may find you receive an error regarding permissions. This will generally be caused by an incorrect/mistyping of a command. In the example below the first command completes successfully whereas the second command fails due to the Resource Group name having an additional "a" character at the start.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 ### Deployment failures
 

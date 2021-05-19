@@ -62,7 +62,7 @@ By clicking the password paste feature it will automatically paste the password 
 
 On rare occasions where the VM window becomes unresponsive then click the Refresh Display button. This re-establishes a connection with the selected Virtual Machine.
 
-![](../.gitbook/assets/reconnect-button.png)
+![](../.gitbook/assets/reconnect-button%20%281%29.png)
 
 ### **Control + Alt + Delete Button**
 
@@ -104,7 +104,7 @@ Paste function button **Activates** the paste feature into the selected virtual 
 
 When you have completed your lab you should end your lab. If you wish to continue you lab at another time then ensure you click the save button. Labs will saved between 4 and 7 days depending on the lab environment. Not all labs can or need to be saved.
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2884%29%20%281%29.png)
 
 ![](../.gitbook/assets/image%20%2882%29.png)
 

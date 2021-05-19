@@ -16,7 +16,7 @@ The reason this occurs is because the VM window inside the LMS is continually li
 
 There is a simple fix for this.  Simple click the "**Reconnect**" button inside the of the lab window to attempt a fresh connection to the lab environment.
 
-![](../.gitbook/assets/reconnect-button%20%281%29.png)
+![](../.gitbook/assets/reconnect-button%20%281%29%20%281%29.png)
 
 If the Virtual Machine has become unresponsive then you should try restarting the VM by using the Power Options Button:
 

@@ -53,7 +53,7 @@ Markdown allows for text to be resized by typing 1-6 \# \(hash or pound\) symbol
 
   > ```code block```
 
-![Code Block displayed in Lab Guide](../.gitbook/assets/image%20%28105%29.png)
+![Code Block displayed in Lab Guide](../.gitbook/assets/image%20%28108%29%20%282%29.png)
 
 * **Fenced code block**: used to provide a programming language-specific code snippet. Type three \` \(backticks\) on each side of the text that should be displayed in the fenced code block. This should consume at least 3 lines in the text editor; the first line should display three backticks followed by the programming language name, the second line should display the code snippet, and the last line should only display three backticks. Markdown allows for more than one line to be used to display the code snippet.  In order for numbering to continue you should indent the fenced code block with a tab.  You may use any of the following language-specific codes:
 
@@ -194,7 +194,7 @@ They can be added by using the options in the lab guide editor:
 
 * **Virtual Machines:** This section allows you to add a Replacement Token for the VM names. When multiple VMs are added to a lab image using this feature allows the student to switch VMs without having to use the commands in the home tab of the lab environment. Username and Passwords can also be inserted which allow pasting directly from the lab guide.
 
-![Example of Vitual Machine and Password links inside a lab guide](../.gitbook/assets/image%20%28103%29.png)
+![Example of Vitual Machine and Password links inside a lab guide](../.gitbook/assets/image%20%28103%29%20%281%29.png)
 
 * **Key Combinations**: This section allows you to embed virtual machine commands such as Ctrl + Alt + Del commands.
 
